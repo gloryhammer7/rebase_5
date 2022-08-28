@@ -6,4 +6,6 @@ main 2nd commit
 
 commit on story
 
+commit on main
+
 storry commit
